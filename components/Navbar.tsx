@@ -27,7 +27,8 @@ const Navbar: React.FC = () => {
           {/* Logo */}
           <div className="flex-shrink-0 flex items-center">
             <a href="#" className="font-bold text-xl bg-clip-text text-transparent bg-gradient-to-r from-primary-600 to-indigo-600">
-              {PROFILE.name}
+              //{PROFILE.name}
+              个人简介
             </a>
           </div>
 
