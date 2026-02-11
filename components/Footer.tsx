@@ -12,7 +12,7 @@ const Footer: React.FC = () => {
           <div>
             <h3 className="text-2xl font-bold text-white mb-6">保持联系</h3>
             <p className="text-slate-400 mb-8 max-w-md">
-              如果您对我的项目感兴趣，或者有任何学术交流、合作机会，欢迎随时通过以下方式联系我。
+              如果您对我的项目感兴趣，或者有任何交流、合作机会，欢迎随时通过以下方式联系我。
             </p>
             
             <div className="space-y-4">
