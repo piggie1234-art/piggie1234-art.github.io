@@ -31,7 +31,7 @@ export const PROJECTS: Project[] = [
     id: "3",
     title: "水下图像增强深度学习算法",
     description: "针对水下图像蓝绿偏色及人工照明场景，研发去色偏和去人工光源干扰的增强算法。",
-    tags: ["PyTorch", "Deep Learning", "Image Processing", "ECharts"],
+    tags: ["PyTorch", "Deep Learning", "Image Processing"],
     link: "https://github.com/piggie1234-art/DeRetinex.git"
   }
 ];
